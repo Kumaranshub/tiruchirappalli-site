@@ -7,6 +7,25 @@ It enables devices to exchange financial value **without internet connectivity**
 
 The system combines **cryptography, distributed networking, and offline digital tokens** to build a payment architecture capable of operating in **disaster zones, rural environments, and disconnected networks**.
 
+<h1 align="center">NodePay</h1>
+<p align="center">
+Networkless Peer-to-Peer Digital Payments
+</p>
+
+<p align="center">
+Digital payments that work even when the internet doesn't.
+</p>
+
+<p align="center">
+Device-to-Device • Mesh Networking • Offline Tokens • Cryptographic Security
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/status-research-blue">
+<img src="https://img.shields.io/badge/type-protocol-green">
+<img src="https://img.shields.io/badge/network-mesh-orange">
+<img src="https://img.shields.io/badge/payments-offline-purple">
+</p>
 ---
 
 # Why NodePay?
