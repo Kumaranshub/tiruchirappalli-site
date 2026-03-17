@@ -247,7 +247,7 @@ Future updates may include **prototype implementations and simulations**.
 
 # Author
 
-C. Kumaran
+C. Kumaran CN class
 Computer Science – Data Science
 VIT Chennai
 
